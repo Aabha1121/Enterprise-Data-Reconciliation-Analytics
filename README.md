@@ -47,4 +47,11 @@ Key results:
 \## Project Objective
 
 To validate transaction data, perform exploratory data analysis, create visualizations, and develop a Power BI dashboard for business insights.
+## Data Validation
+
+The reconciled transaction dataset was checked for missing values, duplicate records, invalid amounts, and missing exchange rates.
+
+
+
+All major reconciliation checks were completed successfully.
 
